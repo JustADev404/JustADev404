@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 </div>
 
-Hi! I'm training to be a member of Bear Metal (2046), an FRC Team and know five coding languages!
+Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently know over five coding languages!
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="📊" width="25" height="25" />
 
