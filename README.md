@@ -41,3 +41,8 @@ Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,css,html,js,git,github,vscode" alt="Tech Stack" />
 </div>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JustADev404&theme=catppuccin&no-frame=true&column=4" alt="GitHub Trophies" />
+  </a>
+</div>
