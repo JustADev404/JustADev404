@@ -36,7 +36,7 @@ Hello, nice to meet you! I'm training to be a member of the FRC team Bear Metal 
    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=JustADev404&layout=compact&hide_values=true&theme=catppuccin_mocha">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JustADev404&layout=compact&hide_values=true&theme=catppuccin_mocha" alt="Top Langs" height="165" />
   </a>
-  <br>
+  <br><br>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=JustADev404&theme=catppuccin-mocha" alt="GitHub Streak" height="180" />
   </a>
