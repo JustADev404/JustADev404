@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bungee+Inline&size=50&pause=100&color=89b4fa&center=true&vCenter=true&width=550&lines=Avyukt+Sivakumar)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bungee+Inline&size=30&pause=100&color=89b4fa&center=true&vCenter=true&width=435&lines=Programmer;Member+In+Training;Badminton+Player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Bungee+Inline&size=30&pause=100&color=89b4fa&center=true&vCenter=true&width=435&lines=Programmer;App+Developer;Badminton+Player)](https://git.io/typing-svg)
 
 </div>
 
