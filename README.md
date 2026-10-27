@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently know over five coding languages!
 
-## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="📊" width="25" height="25" />
+## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="📊" width="25" height="25" />
 
 <div align="center">
 
