@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=50&pause=100&color=89b4fa&center=true&vCenter=true&width=435&lines=Avyukt+S.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pacifico&size=50&pause=100&color=89b4fa&center=true&vCenter=true&width=435&lines=Avyukt+Sivakumar)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=30&pause=100&color=89b4fa&center=true&vCenter=true&width=435&lines=Programmer;Member+In+Training;Badminton+Player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pacifico&size=30&pause=100&color=89b4fa&center=true&vCenter=true&width=435&lines=Programmer;Member+In+Training;Badminton+Player)](https://git.io/typing-svg)
 
 </div>
 
