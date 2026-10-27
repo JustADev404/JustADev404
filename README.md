@@ -39,5 +39,5 @@ Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently 
 
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,js,flutter,dart,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,py,css,html,js,git,github,vscode" alt="Tech Stack" />
 </div>
