@@ -42,5 +42,14 @@ Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently 
   <img src="https://skillicons.dev/icons?i=java,py,css,html,js,git,github,vscode" alt="Tech Stack" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JustADev404&theme=react-dark&hide_border=true" alt="Activity Graph" />
+
+  <!-- FRC Team Badge -->
+  <img src="https://img.shields.io/badge/FRC_Team-Bear_Metal_2046-00529B?style=for-the-badge&logo=FIRST&logoColor=white" alt="FRC 2046" />
+
+  <!-- Role / Specialty -->
+  <img src="https://img.shields.io/badge/Focus-App_Development-89b4fa?style=for-the-badge&logo=android&logoColor=white" alt="App Dev" />
+
+  <!-- Badminton / Sport -->
+  <img src="https://img.shields.io/badge/Sport-Badminton-a6e3a1?style=for-the-badge" alt="Badminton" />
+
 </div>
