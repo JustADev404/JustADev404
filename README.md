@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently know over five coding languages!
 
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="📊" width="25" height="25" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,css,html,js,git,github,vscode" alt="Tech Stack" />
+</div>
 <div align="center">
 
  <a href="https://github-stats-extended.vercel.app/api?username=JustADev404&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_mocha">
@@ -37,7 +39,4 @@ Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently 
     <img src="https://streak-stats.demolab.com?user=JustADev404&theme=catppuccin-mocha" alt="GitHub Streak" height="180" />
   </a>
 
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,css,html,js,git,github,vscode" alt="Tech Stack" />
 </div>
