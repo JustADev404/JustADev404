@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 </div>
 
-Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently know over five coding languages!
+Hello, nice to meet you! I'm training to be a member of the FRC team Bear Metal (2046) and currently know how to code in/use...
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,css,html,js,git,github,vscode" alt="Tech Stack" />
