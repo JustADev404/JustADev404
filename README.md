@@ -26,15 +26,15 @@ Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently 
 
 <div align="center">
 
- <a href="https://github-stats-extended.vercel.app/api?username=reniejoshi&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_mocha">
-    <img src="https://github-stats-extended.vercel.app/api?username=reniejoshi&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" alt="GitHub Stats" height="165" />
+ <a href="https://github-stats-extended.vercel.app/api?username=JustADev404&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_mocha">
+    <img src="https://github-stats-extended.vercel.app/api?username=JustADev404&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" alt="GitHub Stats" height="165" />
   </a>
-   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=reniejoshi&layout=compact&hide_values=true&theme=catppuccin_mocha">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=reniejoshi&layout=compact&hide_values=true&theme=catppuccin_mocha" alt="Top Langs" height="165" />
+   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=JustADev404&layout=compact&hide_values=true&theme=catppuccin_mocha">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=JustADev404&layout=compact&hide_values=true&theme=catppuccin_mocha" alt="Top Langs" height="165" />
   </a>
   <br><br>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=reniejoshi&theme=catppuccin-mocha" alt="GitHub Streak" height="180" />
+    <img src="https://streak-stats.demolab.com?user=JustADev404&theme=catppuccin-mocha" alt="GitHub Streak" height="180" />
   </a>
 
 </div>
