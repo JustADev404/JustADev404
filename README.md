@@ -41,6 +41,3 @@ Hi! I'm training to be a member of the FRC team Bear Metal (2046) and currently 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,py,css,html,js,git,github,vscode" alt="Tech Stack" />
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JustADev404&color=89b4fa&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
