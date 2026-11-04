@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Hello, nice to meet you! I'm training to be a member of the FRC team Bear Metal (2046) and currently know how to code in/use...
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,html,css,js,git,github,vscode,idea,androidstudio,windows,apple,nintendo" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,py,html,css,js,git,github,vscode,idea,androidstudio,windows,apple" alt="Tech Stack" />
 </div>
 
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="📊" width="25" height="25" />
